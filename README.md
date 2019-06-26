@@ -1,12 +1,14 @@
-# JSFuck `[]()!+`
+# JSAtomicFuscator `[]()!+`
 
-JSFuck is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.
+I had it forked for those like me sensitive to degrading and derogatory language (unless you are GaryVee).
+
+JSAtomicFuscator is an esoteric and educational programming style based on the atomic parts of JavaScript. It uses only six different characters to write and execute code.
 
 It does not depend on a browser, so you can even run it on Node.js.
 
-Demo: [jsfuck.com](http://www.jsfuck.com)
+[Original Demo](http://www.jsfuck.com)
 
-By [@aemkei](https://twitter.com/aemkei) and [friends](https://github.com/aemkei/jsfuck/graphs/contributors).
+Originally By [@aemkei](https://twitter.com/aemkei) and [friends](https://github.com/aemkei/jsfuck/graphs/contributors).
 
 ### Example
 
@@ -53,8 +55,6 @@ The following source will do an `alert(1)`:
 See the full list [here](https://github.com/aemkei/jsfuck/blob/master/jsfuck.js).  
 
 # How it Works
-
-**Note:** Feel free to join the discussion here: https://gitter.im/aemkei/jsfuck
 
 ## `[]` – Brackets
 
@@ -533,7 +533,7 @@ Problem: We do not have access to `Symbol` using our reduced character set.
 
 # Further Readings
 
-JSFuck was not the first approach! Many people around the world are trying to break the so-called "Wall". Read more here:
+This was not the first approach! Many people around the world are trying to break the so-called "Wall". Read more here:
 
 * [Esolang Wiki: JSFuck](https://esolangs.org/wiki/JSFuck)
 * [sla.ckers.org](http://sla.ckers.org/forum/read.php?24,32930) – Original Discussion
