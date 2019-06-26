@@ -1,4 +1,4 @@
-/*! JSFuck 0.4.0 - http://jsfuck.com */
+/*! JSAtomicFuscator 0.4.1 */
 
 (function(self){
 
@@ -298,7 +298,7 @@
   replaceMap();
   replaceStrings();
 
-  self.JSFuck = {
+  self.JSAtomicFuscator = {
     encode: encode
   };
 })(typeof(exports) === "undefined" ? window : exports);
